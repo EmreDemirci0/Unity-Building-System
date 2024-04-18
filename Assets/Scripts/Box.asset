@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 314b240808c30dd448c17994fe629a71, type: 3}
+  m_Name: Box
+  m_EditorClassIdentifier: 
+  mainObjectPrefab: {fileID: 8418362317175904403, guid: b8296c268a01abd418bac61e4a881e83, type: 3}
+  tempObjectPrefab: {fileID: 8418362317175904403, guid: 04c226f9b3ebaa94da4cbb95eb9ec0b2, type: 3}
+  HandPosition: {x: -0.02000069, y: 0.596, z: 0.73}
+  HandRotation: {x: 0, y: 180, z: 0}
+  HandScale: {x: 1, y: 1, z: 1}

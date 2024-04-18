@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 314b240808c30dd448c17994fe629a71, type: 3}
+  m_Name: BigBox
+  m_EditorClassIdentifier: 
+  mainObjectPrefab: {fileID: 7803295770127253319, guid: 0211d91b7fc0c99408e69b8a9337fc1a, type: 3}
+  tempObjectPrefab: {fileID: 4998528514782238548, guid: 16babeb8ee5287a4192430dfe1cf6bc1, type: 3}
+  HandPosition: {x: 0, y: 0.32, z: 0.73}
+  HandRotation: {x: 0, y: 180, z: 0}
+  HandScale: {x: 1, y: 1, z: 1}

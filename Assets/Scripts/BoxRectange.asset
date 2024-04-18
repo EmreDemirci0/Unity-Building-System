@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 314b240808c30dd448c17994fe629a71, type: 3}
+  m_Name: BoxRectange
+  m_EditorClassIdentifier: 
+  mainObjectPrefab: {fileID: 7803295770127253319, guid: b3ef25dcdef76a7478afee7cc194988b, type: 3}
+  tempObjectPrefab: {fileID: 4998528514782238548, guid: c3cd793c7daff2f48b6f3c300c0c0ba2, type: 3}
+  HandPosition: {x: 0, y: 0.1, z: 1}
+  HandRotation: {x: 0, y: 0, z: 0}
+  HandScale: {x: 1, y: 1, z: 1}
